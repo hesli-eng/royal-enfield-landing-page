@@ -9,11 +9,11 @@ export default function Home() {
               <div className="bg-white w-full h-[50vh] md:w-1/2 md:h-screen ">
                   <div className="flex flex-col items-center">
                       <div
-                          className="flex justify-center h-[35vh] md:h-[50vh] align-middle content-center items-center">
-                          <img className="w-3/4 h-auto xl:h-1/3 xl:w-auto" src="/RE-TO.png" alt="image description"/>
+                          className="flex justify-center h-[35vh] md:h-[70vh] align-middle content-center items-center">
+                          <img className="w-3/4 h-auto xl:h-1/4 xl:w-auto" src="/RE-TO.png" alt="image description"/>
                       </div>
                       <div
-                          className="flex justify-center h-[15vh] md:h-[50vh] content-center items-start w-3/4 md:w-1/2">
+                          className="flex justify-center h-[15vh] md:h-[30vh] content-center items-start w-3/4 md:w-1/2">
 
                           <a href={'https://royalenfieldtoronto.com'}
                              className="w-3/4 sm:w-1/2 md:w-3/4 bg-primaryRed text-white font-bold py-4 px-4 text-center">
@@ -26,12 +26,12 @@ export default function Home() {
               <div className="bg-black w-full h-[50vh] md:w-1/2 md:h-screen ">
                   <div className="flex flex-col items-center">
                       <div
-                          className="flex h-[35vh] md:h-[50vh] justify-center  align-middle content-center items-center">
-                          <img className="w-3/5 md:w-3/4 md:h-auto xl:h-3/4 xl:w-auto " src="/Classy-Chassis-Circle-Logo.png"
+                          className="flex h-[35vh] md:h-[70vh] justify-center  align-middle content-center items-center">
+                          <img className="w-3/5 md:w-3/4 md:h-auto xl:h-3/5 xl:w-auto " src="/Classy-Chassis-Circle-Logo.png"
                                alt="image description"/>
                       </div>
                       <div
-                          className="flex justify-center h-[15vh] md:h-[50vh]  content-center items-start w-3/4 md:w-1/2">
+                          className="flex justify-center h-[15vh] md:h-[30vh]  content-center items-start w-3/4 md:w-1/2">
                           <a href={'https://www.usedhd.ca/'} className="w-3/4 sm:w-1/2 md:w-3/4 bg-primaryOrange text-black font-bold py-4 px-4 text-center">
                              ENTER
                           </a>
